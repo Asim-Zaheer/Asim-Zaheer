@@ -27,4 +27,7 @@
 &nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asim-zaheer&show_icons=true&locale=en&layout=compact" alt="asim-zaheer" /></p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
