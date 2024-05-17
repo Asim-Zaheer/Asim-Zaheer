@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [360XpertSolution](https://360xpertsolutions.com/)
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend development**
 
 - 👯 I’m looking to collaborate on **FrontEnd projects**
 
