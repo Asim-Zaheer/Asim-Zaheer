@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://asimreactportfolio.netlify.app/](https://asimreactportfolio.netlify.app/)
 
-- 💬 Ask me about **React ,,React Naive ,GSAP,Three JS React Three Fiber**
+- 💬 Ask me about **React ,React Naive ,GSAP,Three JS React Three Fiber**
 
 - 📫 How to reach me **iasimzaheer@gmail.com**
 
