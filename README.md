@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asim-zaheer" alt="asim-zaheer" /></a> </p>
 
-- 🔭 I’m currently working on [React native App Store, Warehouse and track Marathon]
+- 🔭 I’m currently working on **React native App Store, Warehouse and track Marathon**
 
 - 🌱 I’m currently learning **Backend development**
 
