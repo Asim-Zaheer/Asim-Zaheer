@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asim-zaheer&label=Profile%20views&color=0e75b6&style=flat" alt="asim-zaheer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asim-zaheer" alt="asim-zaheer" /></a> </p>
+
 
 - 🔭 I’m currently working on **React native App Store, Warehouse and track Marathon**
 
