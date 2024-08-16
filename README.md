@@ -22,7 +22,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/asim zaheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asim zaheer" height="30" width="40" /></a>
 </p>
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -30,5 +29,6 @@
 &nbsp;
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asim-zaheer&show_icons=true&locale=en&layout=compact" alt="asim-zaheer" /></p>
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
 
 
