@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React native App Store, Warehouse and track Marathon**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Backend development** , Fastify
 
 - 👯 I’m looking to collaborate on **FrontEnd projects**
 
