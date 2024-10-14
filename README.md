@@ -30,5 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asim-zaheer&show_icons=true&locale=en&layout=compact" alt="asim-zaheer" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=asim-zaheer&" alt="asim-zaheer" /></p>
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
+<img align="center" height="200" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
 
