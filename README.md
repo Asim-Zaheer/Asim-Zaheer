@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **React native App Store, Warehouse ,Local Review Website and track Marathon**
+- 🔭 I’m currently working on **React native ,Local Review Website,Admin panel and track Marathon**
 
 - 🌱 I’m currently learning **Backend development** , Fastify
 
