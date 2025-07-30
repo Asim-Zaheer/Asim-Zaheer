@@ -5,15 +5,15 @@
 
 
 
-- 🔭 I’m currently working on **React native ,Local Review Website,Admin panel and track Marathon also Eletron Project(FYP)**
+- 🔭 I’m currently working on **Resal, React native ,Local Review Website, Admin panel and track Marathon also Eletron Project(FYP)**
 
 - 🌱 I’m currently learning **Backend development** , Fastify
 
 - 👯 I’m looking to collaborate on **FrontEnd projects**
 
-- 👨‍💻 All of my projects are available at [https://asimreactportfolio.netlify.app/](https://asimreactportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [asimdotdev](https://asimdotdev.vercel.app/)
 
-- 💬 Ask me about **React ,React Naive ,GSAP,Three JS React Three Fiber**
+- 💬 Ask me about **React ,React Naive , Next Js, Nest Js, FastApi, GraphQl, GSAP,Three JS React Three Fiber**
 
 - 📫 How to reach me **iasimzaheer@gmail.com**
 
