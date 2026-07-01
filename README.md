@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Resal, React native ,Local Review Website, Admin panel and track Marathon also Eletron Project(FYP)**
 
-- 🌱 I’m currently learning **Backend development** , Fastify, Nest Js, FastApi, Django
+- 🌱 I’m currently learning **Backend development** , Fastify, Nest Js, FastApi, Django including Ai stuff RAG, n8n
 
 - 👯 I’m looking to collaborate on **FrontEnd projects**
 
