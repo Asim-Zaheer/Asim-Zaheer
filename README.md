@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Resal, React native ,Local Review Website, Admin panel and track Marathon also Eletron Project(FYP) **
+- 🔭 I’m currently working on **Chaajao platform, tech I am using Django, Next.js and  React native ,Local Review Website, Admin panel and track Marathon also Eletron Project(FYP) **
 
 - 🌱 I’m currently learning **Backend development** , Fastify, Nest Js, FastApi, Django including Ai stuff RAG, n8n.
 
